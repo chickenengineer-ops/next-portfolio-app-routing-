@@ -25,20 +25,13 @@ export function AboutSection() {
 						}}
 					>
 						<p className="my-3.5">
-
-							I'm James Coulter, a senior full-stack web developer with over 10 years of hands-on experience building high-quality, scalable web applications. I specialize in modern JavaScript technologies like React, Next.js, and Vue.js on the frontend, and Node.js, Express, PostgreSQL, and MongoDB on the backend.
-
+							I&rsquo;m James Coulter, a senior full-stack web developer with over 10 years of hands-on experience building high-quality, scalable web applications. I specialize in modern JavaScript technologies — including React, Next.js, and Vue.js on the frontend, and Node.js, Express, PostgreSQL, and MongoDB on the backend. I also bring a strong focus on clean architecture, performance, and maintainability in everything I build.
 						</p>
 						<p className="my-3.5">
-
-							My journey started with a fascination for how things work on the web, and that curiosity quickly evolved into a deep passion for creating clean, user-focused digital experiences. Throughout my career, I’ve worked with startups, agencies, and long-term freelance clients to bring ideas to life — always focusing on performance, maintainability, and a great user experience.
-
+							My journey started with a fascination for how things work on the web, and that curiosity quickly evolved into a deep passion for creating clean, user-focused digital experiences. Throughout my career, I&rsquo;ve worked with startups, agencies, and long-term freelance clients to bring ideas to life — always focusing on performance, maintainability, and a great user experience.
 						</p>
-
-
 					</div>
 				</div>
-
 				<TimeLine />
 			</section>
 		</LazyMotion>
