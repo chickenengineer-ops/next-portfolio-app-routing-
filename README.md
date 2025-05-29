@@ -45,7 +45,7 @@ I'm a full-stack web developer based in Abilene, Texas with over 10 years of exp
 
 - **Email**: [js1107443@gmail.com](mailto:js1107443@gmail.com)  
 - **GitHub**: [JamesCoulter](https://github.com/James1107443)  
-- **Location**: Abilene, Texas, USA
+- **Location**: Waterloo, Ontario, Canada
 
 ---
 
