@@ -12,7 +12,7 @@ export function useScrollTo() {
 				setHeight(navigationHeight);
 			}
 		};
-
+		console.log("addEventListener is working!")
 		window.addEventListener("resize", handleResize);
 		return () => window.removeEventListener("resize", handleResize);
 	}, []);
